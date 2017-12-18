@@ -3,6 +3,6 @@ $monAge = 17;
 if ($monAge >= 18){
   echo 'Tu es majeur';
 } else {
-  echo 'Tu n\'est pas majeur';
+  echo 'Tu n\'es pas majeur';
 }
  ?>
